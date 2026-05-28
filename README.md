@@ -17,21 +17,23 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+
+<a href="#">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40" width="40" />
+<a href="#">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" width="40" />
 </a>
 
-<a href="https://x.com/YOUR_TWITTER" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="twitter" height="40" width="40" />
+<a href="#">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" height="40" width="40" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" />
+<a href="#">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" width="40" />
 </a>
+
 </p>
 
 ---
@@ -64,9 +66,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-shaban2024&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shaban2024&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -76,17 +78,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
+<img src="https://streak-stats.demolab.com?user=mohamed-shaban2024&theme=tokyonight" />
 
 </p>
 
@@ -94,11 +86,11 @@
 
 ## 🚀 Featured Projects
 
-* 🔹 Jenkins CI/CD Pipeline
-* 🔹 Dockerized Node.js App
-* 🔹 Kubernetes Deployment Project
+* 🔹 Go-web-app-devops
+* 🔹 Deploy-Netflix
+* 🔹 Kubernetes Cluster Deployment
 * 🔹 Terraform AWS Infrastructure
-* 🔹 DevSecOps Project
+* 🔹 DevSecOps Projects
 
 ---
 
@@ -106,7 +98,7 @@
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=mohamed-shaban2024&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </p>
 
